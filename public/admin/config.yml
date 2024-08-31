@@ -6,7 +6,7 @@ publish_mode: editorial_workflow
 
 #media_folder: "src/assets/images" # Location where files will be stored in the repo
 #public_folder: "src/assets/images" # The src attribute for uploaded media
-media_folder: "src/assets"
+media_folder: "public/assets"
 public_folder: "/assets"
 
 collections:
